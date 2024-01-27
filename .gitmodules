@@ -1,0 +1,3 @@
+[submodule "craftinginterpreters-zh-release"]
+	path = craftinginterpreters-zh-release
+	url = https://github.com/00-KAMIDUKI/craftinginterpreters-zh-release
